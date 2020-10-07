@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\bin\Debug\netcoreapp3.1\ExceptionHanding.exe
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\bin\Debug\netcoreapp3.1\ExceptionHanding.deps.json
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\bin\Debug\netcoreapp3.1\ExceptionHanding.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\bin\Debug\netcoreapp3.1\ExceptionHanding.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\bin\Debug\netcoreapp3.1\ExceptionHanding.dll
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\bin\Debug\netcoreapp3.1\ExceptionHanding.pdb
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\obj\Debug\netcoreapp3.1\ExceptionHanding.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\obj\Debug\netcoreapp3.1\ExceptionHanding.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\obj\Debug\netcoreapp3.1\ExceptionHanding.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\obj\Debug\netcoreapp3.1\ExceptionHanding.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\obj\Debug\netcoreapp3.1\ExceptionHanding.dll
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\obj\Debug\netcoreapp3.1\ExceptionHanding.pdb
+C:\Users\Dilip Kumar\source\repos\ExceptionHanding\ExceptionHanding\obj\Debug\netcoreapp3.1\ExceptionHanding.genruntimeconfig.cache
