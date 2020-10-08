@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CollectionsConcepts/1.0.0": {
+        "runtime": {
+          "CollectionsConcepts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollectionsConcepts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

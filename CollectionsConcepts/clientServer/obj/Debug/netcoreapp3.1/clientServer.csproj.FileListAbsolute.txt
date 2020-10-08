@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\bin\Debug\netcoreapp3.1\clientServer.exe
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\bin\Debug\netcoreapp3.1\clientServer.deps.json
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\bin\Debug\netcoreapp3.1\clientServer.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\bin\Debug\netcoreapp3.1\clientServer.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\bin\Debug\netcoreapp3.1\clientServer.dll
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\bin\Debug\netcoreapp3.1\clientServer.pdb
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\obj\Debug\netcoreapp3.1\clientServer.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\obj\Debug\netcoreapp3.1\clientServer.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\obj\Debug\netcoreapp3.1\clientServer.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\obj\Debug\netcoreapp3.1\clientServer.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\obj\Debug\netcoreapp3.1\clientServer.dll
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\obj\Debug\netcoreapp3.1\clientServer.pdb
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\clientServer\obj\Debug\netcoreapp3.1\clientServer.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\obj\Debug\netcoreapp3.1\CollectionsConcepts.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\obj\Debug\netcoreapp3.1\CollectionsConcepts.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\obj\Debug\netcoreapp3.1\CollectionsConcepts.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\obj\Debug\netcoreapp3.1\CollectionsConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\bin\Debug\netcoreapp3.1\CollectionsConcepts.exe
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\bin\Debug\netcoreapp3.1\CollectionsConcepts.deps.json
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\bin\Debug\netcoreapp3.1\CollectionsConcepts.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\bin\Debug\netcoreapp3.1\CollectionsConcepts.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\bin\Debug\netcoreapp3.1\CollectionsConcepts.dll
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\bin\Debug\netcoreapp3.1\CollectionsConcepts.pdb
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\obj\Debug\netcoreapp3.1\CollectionsConcepts.dll
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\obj\Debug\netcoreapp3.1\CollectionsConcepts.pdb
+C:\Users\Dilip Kumar\source\repos\CollectionsConcepts\CollectionsConcepts\obj\Debug\netcoreapp3.1\CollectionsConcepts.genruntimeconfig.cache
