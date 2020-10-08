@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\bin\Debug\netcoreapp3.1\TaskSynch.exe
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\bin\Debug\netcoreapp3.1\TaskSynch.deps.json
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\bin\Debug\netcoreapp3.1\TaskSynch.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\bin\Debug\netcoreapp3.1\TaskSynch.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\bin\Debug\netcoreapp3.1\TaskSynch.dll
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\bin\Debug\netcoreapp3.1\TaskSynch.pdb
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\obj\Debug\netcoreapp3.1\TaskSynch.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\obj\Debug\netcoreapp3.1\TaskSynch.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\obj\Debug\netcoreapp3.1\TaskSynch.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\obj\Debug\netcoreapp3.1\TaskSynch.dll
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\obj\Debug\netcoreapp3.1\TaskSynch.pdb
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\obj\Debug\netcoreapp3.1\TaskSynch.genruntimeconfig.cache
+C:\Users\Dilip Kumar\source\repos\All\TaskSynch\obj\Debug\netcoreapp3.1\TaskSynch.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\All\All\obj\Debug\netcoreapp3.1\All.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\All\All\obj\Debug\netcoreapp3.1\All.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\All\All\obj\Debug\netcoreapp3.1\All.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\All\All\obj\Debug\netcoreapp3.1\All.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\All\All\bin\Debug\netcoreapp3.1\All.exe
+C:\Users\Dilip Kumar\source\repos\All\All\bin\Debug\netcoreapp3.1\All.deps.json
+C:\Users\Dilip Kumar\source\repos\All\All\bin\Debug\netcoreapp3.1\All.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\All\All\bin\Debug\netcoreapp3.1\All.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\All\All\bin\Debug\netcoreapp3.1\All.dll
+C:\Users\Dilip Kumar\source\repos\All\All\bin\Debug\netcoreapp3.1\All.pdb
+C:\Users\Dilip Kumar\source\repos\All\All\obj\Debug\netcoreapp3.1\All.dll
+C:\Users\Dilip Kumar\source\repos\All\All\obj\Debug\netcoreapp3.1\All.pdb
+C:\Users\Dilip Kumar\source\repos\All\All\obj\Debug\netcoreapp3.1\All.genruntimeconfig.cache
