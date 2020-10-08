@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\bin\Debug\netcoreapp3.1\Delegatess.exe
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\bin\Debug\netcoreapp3.1\Delegatess.deps.json
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\bin\Debug\netcoreapp3.1\Delegatess.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\bin\Debug\netcoreapp3.1\Delegatess.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\bin\Debug\netcoreapp3.1\Delegatess.dll
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\bin\Debug\netcoreapp3.1\Delegatess.pdb
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\obj\Debug\netcoreapp3.1\Delegatess.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\obj\Debug\netcoreapp3.1\Delegatess.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\obj\Debug\netcoreapp3.1\Delegatess.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\obj\Debug\netcoreapp3.1\Delegatess.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\obj\Debug\netcoreapp3.1\Delegatess.dll
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\obj\Debug\netcoreapp3.1\Delegatess.pdb
+C:\Users\Dilip Kumar\source\repos\Delegatess\Delegatess\obj\Debug\netcoreapp3.1\Delegatess.genruntimeconfig.cache

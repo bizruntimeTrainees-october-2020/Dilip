@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.exe
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.deps.json
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\Dilip Kumar\source\repos\Delegatess\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.genruntimeconfig.cache
