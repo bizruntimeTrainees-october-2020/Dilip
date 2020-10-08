@@ -1,0 +1,13 @@
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\bin\Debug\netcoreapp3.1\LINQCONCEPT.exe
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\bin\Debug\netcoreapp3.1\LINQCONCEPT.deps.json
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\bin\Debug\netcoreapp3.1\LINQCONCEPT.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\bin\Debug\netcoreapp3.1\LINQCONCEPT.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\bin\Debug\netcoreapp3.1\LINQCONCEPT.dll
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\bin\Debug\netcoreapp3.1\LINQCONCEPT.pdb
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\obj\Debug\netcoreapp3.1\LINQCONCEPT.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\obj\Debug\netcoreapp3.1\LINQCONCEPT.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\obj\Debug\netcoreapp3.1\LINQCONCEPT.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\obj\Debug\netcoreapp3.1\LINQCONCEPT.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\obj\Debug\netcoreapp3.1\LINQCONCEPT.dll
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\obj\Debug\netcoreapp3.1\LINQCONCEPT.pdb
+C:\Users\Dilip Kumar\source\repos\LINQCONCEPT\LINQCONCEPT\obj\Debug\netcoreapp3.1\LINQCONCEPT.genruntimeconfig.cache
