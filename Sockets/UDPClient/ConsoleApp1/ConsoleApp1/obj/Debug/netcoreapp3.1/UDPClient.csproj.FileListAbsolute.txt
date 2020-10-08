@@ -1,0 +1,4 @@
+G:\trainer\Sockets\UDPClient\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\UDPClient.csprojAssemblyReference.cache
+G:\trainer\Sockets\UDPClient\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+G:\trainer\Sockets\UDPClient\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+G:\trainer\Sockets\UDPClient\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\UDPClient.csproj.CoreCompileInputs.cache
