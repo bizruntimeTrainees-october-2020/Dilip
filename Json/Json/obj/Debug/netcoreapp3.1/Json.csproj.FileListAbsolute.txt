@@ -1,0 +1,15 @@
+G:\trainer\Json\Json\bin\Debug\netcoreapp3.1\Json.exe
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.csprojAssemblyReference.cache
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfoInputs.cache
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfo.cs
+G:\trainer\Json\Json\bin\Debug\netcoreapp3.1\Json.deps.json
+G:\trainer\Json\Json\bin\Debug\netcoreapp3.1\Json.runtimeconfig.json
+G:\trainer\Json\Json\bin\Debug\netcoreapp3.1\Json.runtimeconfig.dev.json
+G:\trainer\Json\Json\bin\Debug\netcoreapp3.1\Json.dll
+G:\trainer\Json\Json\bin\Debug\netcoreapp3.1\Json.pdb
+G:\trainer\Json\Json\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.csproj.CoreCompileInputs.cache
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.csproj.CopyComplete
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.dll
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.pdb
+G:\trainer\Json\Json\obj\Debug\netcoreapp3.1\Json.genruntimeconfig.cache

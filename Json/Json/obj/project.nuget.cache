@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPwB2yciOW92iNz8LLtFCyg3QT5gLJIGGvNhq68W9OK7E7S7qeobKxldv4/GhbX5+wen2zGOTH+PcRhTBf5lGg==",
+  "success": true,
+  "projectFilePath": "G:\\trainer\\Json\\Json\\Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dilip Kumar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

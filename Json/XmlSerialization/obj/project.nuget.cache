@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQK+IiHmiFvLkEl8nxX3EVXenQSxAX85DhIAq7B/z6dIJLqmlql+jJestOg95OKbIbeiEDq9ibGlSG05/mVD0Q==",
+  "success": true,
+  "projectFilePath": "G:\\trainer\\Json\\XmlSerialization\\XmlSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dilip Kumar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
