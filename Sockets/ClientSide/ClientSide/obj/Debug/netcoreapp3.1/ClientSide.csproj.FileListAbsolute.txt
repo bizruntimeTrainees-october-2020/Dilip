@@ -1,0 +1,13 @@
+G:\trainer\Sockets\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.exe
+G:\trainer\Sockets\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.deps.json
+G:\trainer\Sockets\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.json
+G:\trainer\Sockets\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.dev.json
+G:\trainer\Sockets\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.dll
+G:\trainer\Sockets\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.pdb
+G:\trainer\Sockets\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csprojAssemblyReference.cache
+G:\trainer\Sockets\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfoInputs.cache
+G:\trainer\Sockets\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfo.cs
+G:\trainer\Sockets\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csproj.CoreCompileInputs.cache
+G:\trainer\Sockets\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.dll
+G:\trainer\Sockets\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.pdb
+G:\trainer\Sockets\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.genruntimeconfig.cache

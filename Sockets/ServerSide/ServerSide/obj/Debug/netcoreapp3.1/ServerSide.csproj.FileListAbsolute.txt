@@ -1,0 +1,13 @@
+G:\trainer\Sockets\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.exe
+G:\trainer\Sockets\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.deps.json
+G:\trainer\Sockets\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.json
+G:\trainer\Sockets\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.runtimeconfig.dev.json
+G:\trainer\Sockets\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.dll
+G:\trainer\Sockets\ServerSide\ServerSide\bin\Debug\netcoreapp3.1\ServerSide.pdb
+G:\trainer\Sockets\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csprojAssemblyReference.cache
+G:\trainer\Sockets\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfoInputs.cache
+G:\trainer\Sockets\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.AssemblyInfo.cs
+G:\trainer\Sockets\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.csproj.CoreCompileInputs.cache
+G:\trainer\Sockets\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.dll
+G:\trainer\Sockets\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.pdb
+G:\trainer\Sockets\ServerSide\ServerSide\obj\Debug\netcoreapp3.1\ServerSide.genruntimeconfig.cache
