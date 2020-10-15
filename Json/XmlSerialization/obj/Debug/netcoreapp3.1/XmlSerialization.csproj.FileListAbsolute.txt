@@ -1,0 +1,15 @@
+G:\trainer\Json\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.exe
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.csprojAssemblyReference.cache
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.AssemblyInfoInputs.cache
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.AssemblyInfo.cs
+G:\trainer\Json\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.deps.json
+G:\trainer\Json\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.runtimeconfig.json
+G:\trainer\Json\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.runtimeconfig.dev.json
+G:\trainer\Json\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.dll
+G:\trainer\Json\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.pdb
+G:\trainer\Json\XmlSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.csproj.CoreCompileInputs.cache
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.csproj.CopyComplete
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.dll
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.pdb
+G:\trainer\Json\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.genruntimeconfig.cache
