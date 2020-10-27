@@ -1,0 +1,4 @@
+C:\Users\Dilip Kumar\source\repos\DBFirstpproach\DBFirstpproach\bin\Debug\netcoreapp3.1\DBFirstpproach.exe
+C:\Users\Dilip Kumar\source\repos\DBFirstpproach\DBFirstpproach\obj\Debug\netcoreapp3.1\DBFirstpproach.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\DBFirstpproach\DBFirstpproach\obj\Debug\netcoreapp3.1\DBFirstpproach.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\DBFirstpproach\DBFirstpproach\obj\Debug\netcoreapp3.1\DBFirstpproach.AssemblyInfo.cs
