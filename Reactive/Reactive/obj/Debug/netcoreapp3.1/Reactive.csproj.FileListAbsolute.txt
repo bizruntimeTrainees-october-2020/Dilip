@@ -1,0 +1,16 @@
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\Reactive.exe
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.csprojAssemblyReference.cache
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.AssemblyInfoInputs.cache
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.AssemblyInfo.cs
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\Reactive.deps.json
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\Reactive.runtimeconfig.json
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\Reactive.runtimeconfig.dev.json
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\Reactive.dll
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\Reactive.pdb
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.csproj.CoreCompileInputs.cache
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.csproj.CopyComplete
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.dll
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.pdb
+C:\Users\Dilip Kumar\source\repos\Reactive\Reactive\obj\Debug\netcoreapp3.1\Reactive.genruntimeconfig.cache

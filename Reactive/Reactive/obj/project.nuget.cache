@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jnf++aaxqewY68JwJIUx/BOYnGJ6bCcdVhcOi4GZaM95ZtJ0R4OQ5dhDa4sOy2vkfedRhyGm5eYbwqqyOlirpw==",
+  "success": true,
+  "projectFilePath": "G:\\taining programs\\Reactive\\Reactive\\Reactive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dilip\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
