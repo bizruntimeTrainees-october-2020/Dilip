@@ -1,0 +1,13 @@
+G:\Trainig2\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+G:\Trainig2\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+G:\Trainig2\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+G:\Trainig2\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+G:\Trainig2\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+G:\Trainig2\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+G:\Trainig2\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+G:\Trainig2\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+G:\Trainig2\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+G:\Trainig2\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+G:\Trainig2\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+G:\Trainig2\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+G:\Trainig2\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache

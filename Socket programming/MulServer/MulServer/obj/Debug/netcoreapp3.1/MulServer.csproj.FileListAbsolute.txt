@@ -1,0 +1,4 @@
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.csprojAssemblyReference.cache
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.AssemblyInfoInputs.cache
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.AssemblyInfo.cs
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.csproj.CoreCompileInputs.cache
