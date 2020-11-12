@@ -1,0 +1,12 @@
+G:\Trainig2\Socket programming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+G:\Trainig2\Socket programming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+G:\Trainig2\Socket programming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+G:\Trainig2\Socket programming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+G:\Trainig2\Socket programming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+G:\Trainig2\Socket programming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+G:\Trainig2\Socket programming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+G:\Trainig2\Socket programming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+G:\Trainig2\Socket programming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CoreCompileInputs.cache
+G:\Trainig2\Socket programming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+G:\Trainig2\Socket programming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+G:\Trainig2\Socket programming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.genruntimeconfig.cache

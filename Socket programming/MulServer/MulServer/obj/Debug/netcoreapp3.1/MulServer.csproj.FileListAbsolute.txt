@@ -1,0 +1,13 @@
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.csprojAssemblyReference.cache
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.AssemblyInfoInputs.cache
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.AssemblyInfo.cs
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.csproj.CoreCompileInputs.cache
+G:\Trainig2\Socket programming\MulServer\MulServer\bin\Debug\netcoreapp3.1\MulServer.exe
+G:\Trainig2\Socket programming\MulServer\MulServer\bin\Debug\netcoreapp3.1\MulServer.deps.json
+G:\Trainig2\Socket programming\MulServer\MulServer\bin\Debug\netcoreapp3.1\MulServer.runtimeconfig.json
+G:\Trainig2\Socket programming\MulServer\MulServer\bin\Debug\netcoreapp3.1\MulServer.runtimeconfig.dev.json
+G:\Trainig2\Socket programming\MulServer\MulServer\bin\Debug\netcoreapp3.1\MulServer.dll
+G:\Trainig2\Socket programming\MulServer\MulServer\bin\Debug\netcoreapp3.1\MulServer.pdb
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.dll
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.pdb
+G:\Trainig2\Socket programming\MulServer\MulServer\obj\Debug\netcoreapp3.1\MulServer.genruntimeconfig.cache
